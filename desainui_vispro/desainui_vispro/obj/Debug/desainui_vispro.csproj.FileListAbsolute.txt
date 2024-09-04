@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\desainui_vispro\desainui_vispro\bin\Debug\desainui_vispro.exe.config
+C:\Users\Acer\source\repos\desainui_vispro\desainui_vispro\bin\Debug\desainui_vispro.exe
+C:\Users\Acer\source\repos\desainui_vispro\desainui_vispro\bin\Debug\desainui_vispro.pdb
+C:\Users\Acer\source\repos\desainui_vispro\desainui_vispro\obj\Debug\desainui_vispro.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\desainui_vispro\desainui_vispro\obj\Debug\desainui_vispro.Form1.resources
+C:\Users\Acer\source\repos\desainui_vispro\desainui_vispro\obj\Debug\desainui_vispro.Properties.Resources.resources
+C:\Users\Acer\source\repos\desainui_vispro\desainui_vispro\obj\Debug\desainui_vispro.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\desainui_vispro\desainui_vispro\obj\Debug\desainui_vispro.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\desainui_vispro\desainui_vispro\obj\Debug\desainui_vispro.exe
+C:\Users\Acer\source\repos\desainui_vispro\desainui_vispro\obj\Debug\desainui_vispro.pdb
